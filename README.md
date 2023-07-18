@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @yjoshi2271
+- 👀 I’m interested in AEM and Java
+- 🌱 I’m currently learning Java Web Development and AEM
+- 📫 Reach me on teams yjoshi.yoge123@outlook.com
